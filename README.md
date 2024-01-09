@@ -17,27 +17,51 @@ The system is designed to provide a simple and secure method of access control u
 ## Circuit Diagram and Connections:
 ![image](https://github.com/sreenidhi-n/Password-based-Door-Lock-System/assets/95966587/3dbeb49e-72fc-4cc7-98b3-74009d88e3f0)
 
-Connections: 
-LCD - Arduino
-GND - gnd
-VCC – 5V
-SDA - A4
-SCL - A5
+Connections:   
 
-Keypad - Arduino
-    R1 – Pin 8
-    R2 – Pin 7
-    R3 – Pin 6
-    R4 - Pin 5
-    C1 - Pin 4
-    C2 – Pin 3
-    C3 – Pin 2
+LCD - Arduino  
 
-Buzzer - Arduino
-    Positive (+) – Pin 10
-    Negative (-) - gnd 
+GND - gnd  
 
-Servo - Arduino
-    Ground Wire (Brown) - gnd
-    Power Wire (Red) – 5V
+VCC – 5V  
+
+SDA - A4  
+
+SCL - A5  
+
+
+
+
+Keypad - Arduino  
+
+    R1 – Pin 8  
+    
+    R2 – Pin 7  
+    
+    R3 – Pin 6  
+    
+    R4 - Pin 5  
+    
+    C1 - Pin 4  
+    
+    C2 – Pin 3  
+    
+    C3 – Pin 2  
+    
+
+  
+Buzzer - Arduino  
+
+    Positive (+) – Pin 10  
+    
+    Negative (-) - gnd   
+    
+
+  
+Servo - Arduino  
+
+    Ground Wire (Brown) - gnd  
+    
+    Power Wire (Red) – 5V  
+    
     Signal Wire (Orange) – 9
