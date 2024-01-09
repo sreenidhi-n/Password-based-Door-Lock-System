@@ -14,10 +14,10 @@ The keypad is connected to the digital pins on the Arduino, and the LCD display 
 
 The system is designed to provide a simple and secure method of access control using Arduino microcontroller and basic electronic components. It can be used for home security, office access control, or any other application requiring password-based authentication.
 
-## Circuit Diagram and Connections:
+## Circuit Diagram:
 ![image](https://github.com/sreenidhi-n/Password-based-Door-Lock-System/assets/95966587/3dbeb49e-72fc-4cc7-98b3-74009d88e3f0)
 
-Connections:   
+## Connections:   
 
 LCD - Arduino  
 
