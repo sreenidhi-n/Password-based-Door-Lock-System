@@ -21,13 +21,13 @@ The system is designed to provide a simple and secure method of access control u
 
 LCD - Arduino  
 
-GND - gnd  
-
-VCC – 5V  
-
-SDA - A4  
-
-SCL - A5  
+    GND - gnd  
+    
+    VCC – 5V  
+    
+    SDA - A4  
+    
+    SCL - A5  
 
 
 
